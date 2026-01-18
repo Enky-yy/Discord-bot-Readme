@@ -1,8 +1,8 @@
-🛡️ Privacy Policy for Laughing Baby
+🛡️ Privacy Policy for Argus Filch
 
 Last updated: [28/10/2025]
 
-This Privacy Policy explains how Laughing Baby (“we,” “us,” or “our”) collects, uses, and protects information when you use our Discord bot (the “Bot”). By using the Bot, you agree to the terms of this Privacy Policy.
+This Privacy Policy explains how Argus Filch (“we,” “us,” or “our”) collects, uses, and protects information when you use our Discord bot (the “Bot”). By using the Bot, you agree to the terms of this Privacy Policy.
 
 1. Information We Collect
 
@@ -95,6 +95,6 @@ Our Bot is not intended for users under 13, in accordance with Discord’s Terms
 9. Contact
 
 If you have questions or concerns about this Privacy Policy, please contact:
-Developer/Owner: Laugh Factory
+Developer/Owner: Hogwarts Staff
 Discord: enky.yy
 Email: harshwardhanshah@mvaburhanpur.com

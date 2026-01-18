@@ -1,8 +1,8 @@
-⚖️ Terms of Service for Laughing Baby
+⚖️ Terms of Service for Argus Filch
 
 Last updated: 28/10/2025
 
-Welcome to Laughing Baby (“we,” “us,” or “our”). These Terms of Service (“Terms”) govern your use of our Discord bot (the “Bot”). By inviting or using the Bot, you agree to these Terms.
+Welcome to Argus Filch (“we,” “us,” or “our”). These Terms of Service (“Terms”) govern your use of our Discord bot (the “Bot”). By inviting or using the Bot, you agree to these Terms.
 If you do not agree with these Terms, please remove the Bot from your server and discontinue its use.
 
 1. Eligibility
@@ -19,7 +19,7 @@ Agree to comply with Discord’s Terms of Service
 
 2. Use of the Bot
 
-You may use Laughing Baby in accordance with these Terms and applicable Discord policies. You agree not to:
+You may use Argus Filch in accordance with these Terms and applicable Discord policies. You agree not to:
 
 Use the Bot for illegal, harmful, or abusive purposes;
 
@@ -71,7 +71,7 @@ You may stop using the Bot at any time by removing it from your Discord server.
 
 6. Intellectual Property
 
-Laughing Baby, its source code, design, and logo (if applicable) are owned by [Your Name or Organization].
+Argus Filch, its source code, design, and logo (if applicable) are owned by [Your Name or Organization].
 
 You may not copy, distribute, modify, or reuse parts of the Bot without explicit permission.
 
@@ -92,7 +92,7 @@ Use of the Bot is at your own risk.
 
 To the fullest extent permitted by law:
 
-Laughing Baby and its developers are not liable for any direct, indirect, incidental, or consequential damages arising from the use or inability to use the Bot.
+Argus Filch and its developers are not liable for any direct, indirect, incidental, or consequential damages arising from the use or inability to use the Bot.
 
 This includes but is not limited to data loss, server moderation actions, or API outages.
 
